@@ -10,3 +10,4 @@ June Tempature Satistical Analysis
 December Tempature Stats 
 ![alt text](https://github.com/aahudson/surfs_up/blob/main/Resources/December_temp.png)
 # Summary 
+While June has more consistently mild termaptures ideally for surfing December average December tempatrues still stand at 71 degrees with some days dipping down to 56 degrees. 
